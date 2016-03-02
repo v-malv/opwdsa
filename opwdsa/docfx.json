@@ -24,6 +24,10 @@
     "template": [
       "op.html"
     ],
-    "dest": "opwdsa"
+    "dest": "opwdsa",
+    "globalMetadata": {
+      "layout": "Conceptual",
+      "breadcrumb_path": "/bcmsdn/toc.json"
+    }
   }
 }
